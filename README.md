@@ -27,19 +27,19 @@
 ![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_0.png)
 | STT | Tên sản phẩm / linh kiện                                               | Số lượng | Chức năng                                                          |
 | --: | ---------------------------------------------------------------------- | -------: | ------------------------------------------------------------------ |
-|   1 | Tấm nền chữ U Acrylic dày 2mm, kích thước 190 × 125 × 30mm (L × W × H) |        x 1 | Phần khung sườn chính của xe                                       |
-|   2 | Tấm đế gắn hộp pin Acrylic dày 2mm, kích thước 123 × 77mm              |        x 1 | Dùng để gắn hộp pin hoặc mạch điều khiển động cơ                   |
-|   3 | Gá bắt Acrylic dày 2mm cho cảm biến siêu âm MKE-S01                    |        x 1 | Dùng để gắn cảm biến siêu âm MKE-S01 hoặc SRF-05                   |
-|   4 | Động cơ RC Servo SG90 0–180°                                           |        x 1 | Dùng để điều khiển góc quay cho cảm biến siêu âm                   |
-|   5 | Bộ động cơ DC giảm tốc TT Motor kèm bánh xe nhựa 65mm                  |        x 4 | Động cơ và bánh xe chính của xe                                    |
-|   6 | Hộp pin 2 × 18650 nối tiếp, có công tắc và giắc DC 5.5 × 2.1mm         |        x 1 | Dùng để cấp nguồn cho xe                                           |
-|   7 | Trụ nhựa lục giác M3 F-F 10mm, màu trắng hoặc đen tùy từng đợt hàng    |       x 10 | Làm chân đế để gắn các bo mạch vào khung xe                        |
-|   8 | Trụ nhựa lục giác M3 M-F 20mm, màu trắng hoặc đen tùy từng đợt hàng    |        x 6 | Dùng để nâng tầng cho tấm đế gắn hộp pin hoặc gắn cảm biến dò line |
-|   9 | Trụ nhựa lục giác M3 F-F 20mm, màu trắng hoặc đen tùy từng đợt hàng    |        x 6 | Dùng để nâng tầng cho tấm đế gắn hộp pin hoặc gắn cảm biến dò line |
-|  10 | Ốc M3 × 6mm                                                            |       x 35 | Dùng để gắn các bo mạch vào khung xe                               |
-|  11 | Ốc, tán M3 × 30mm                                                      |        x 8 | Dùng để bắt động cơ TT Motor vào khung xe                          |
-|  12 | Ốc, tán M2 × 10mm                                                      |        x 2 | Dùng để bắt RC Servo 9G vào khung xe                               |
-|  13 | Ốc, tán M3 × 10mm                                                      |        x 5 | Dùng để bắt cảm biến siêu âm và hộp pin                            |
+|   1 | Tấm nền chữ U Acrylic dày 2mm, kích thước 190 × 125 × 30mm (L × W × H) |   x 1 | Phần khung sườn chính của xe                                       |
+|   2 | Tấm đế gắn hộp pin Acrylic dày 2mm, kích thước 123 × 77mm              |   x 1 | Dùng để gắn hộp pin hoặc mạch điều khiển động cơ                   |
+|   3 | Gá bắt Acrylic dày 2mm cho cảm biến siêu âm MKE-S01                    |   x 1 | Dùng để gắn cảm biến siêu âm MKE-S01 hoặc SRF-05                   |
+|   4 | Động cơ RC Servo SG90 0–180°                                           |   x 1 | Dùng để điều khiển góc quay cho cảm biến siêu âm                   |
+|   5 | Bộ động cơ DC giảm tốc TT Motor kèm bánh xe nhựa 65mm                  |   x 4 | Động cơ và bánh xe chính của xe                                    |
+|   6 | Hộp pin 2 × 18650 nối tiếp, có công tắc và giắc DC 5.5 × 2.1mm         |   x 1 | Dùng để cấp nguồn cho xe                                           |
+|   7 | Trụ nhựa lục giác M3 F-F 10mm, màu trắng hoặc đen tùy từng đợt hàng    |   x 10 | Làm chân đế để gắn các bo mạch vào khung xe                        |
+|   8 | Trụ nhựa lục giác M3 M-F 20mm, màu trắng hoặc đen tùy từng đợt hàng    |   x 6 | Dùng để nâng tầng cho tấm đế gắn hộp pin hoặc gắn cảm biến dò line |
+|   9 | Trụ nhựa lục giác M3 F-F 20mm, màu trắng hoặc đen tùy từng đợt hàng    |   x 6 | Dùng để nâng tầng cho tấm đế gắn hộp pin hoặc gắn cảm biến dò line |
+|  10 | Ốc M3 × 6mm                                                            |   x 35 | Dùng để gắn các bo mạch vào khung xe                               |
+|  11 | Ốc, tán M3 × 30mm                                                      |   x 8 | Dùng để bắt động cơ TT Motor vào khung xe                          |
+|  12 | Ốc, tán M2 × 10mm                                                      |   x 2 | Dùng để bắt RC Servo 9G vào khung xe                               |
+|  13 | Ốc, tán M3 × 10mm                                                      |   x 5 | Dùng để bắt cảm biến siêu âm và hộp pin                            |
 
 ## Thông số kỹ thuật
 
