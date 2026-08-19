@@ -6,7 +6,7 @@
 
 **Khung xe MKE-R01 4WD Robot Car Chassis TT Motor** sử dụng **động cơ TT Motor giảm tốc** kết hợp với 4 bánh xe 65mm, giúp robot vận hành ổn định trên nhiều bề mặt. Thiết kế **4WD (4-Wheel Drive)** cho phép cả bốn bánh cùng tham gia truyền động, giúp tăng khả năng bám đường và khả năng vượt qua các bề mặt không bằng phẳng so với các thiết kế 2WD thông thường. Phần khung được làm từ **tấm Acrylic chắc chắn**, thiết kế nhiều vị trí lỗ bắt vít giúp dễ dàng lắp đặt bo mạch điều khiển, driver động cơ, cảm biến, module giao tiếp và các phụ kiện khác. Kết cấu dạng module cũng cho phép người dùng dễ dàng mở rộng hoặc thay đổi cấu hình robot theo từng dự án.
 
-**Khung xe MKE-R01 4WD Robot Car Chassis TT Motor** có **hộp pin 2 x 18650 tích hợp công tắc nguồn**, cung cấp điện áp tối đa Max 8.4VDC, giúp bố trí nguồn điện gọn gàng và thuận tiện. Nền tảng có thể kết hợp với nhiều bo mạch điều khiển phổ biến như **Arduino/Vietduino, Micro:bit và ESP32-S3**, đồng thời tương thích với nhiều module và cảm biến thông dụng trên thị trường.
+**Khung xe MKE-R01 4WD Robot Car Chassis TT Motor** có **hộp pin 2 x 18650 tích hợp công tắc nguồn**, cung cấp điện áp tối đa Max 8.4VDC, giúp bố trí nguồn điện gọn gàng và thuận tiện. Nền tảng có thể kết hợp với nhiều bo mạch điều khiển phổ biến như **Arduino / Vietduino, Micro:bit và ESP32-S3**, đồng thời tương thích với nhiều module và cảm biến thông dụng trên thị trường.
 
 ## Ưu điểm nổi bật
 
@@ -16,17 +16,23 @@
 * **Thiết kế module:** Nhiều vị trí lỗ giúp dễ dàng lắp bo mạch, cảm biến và phụ kiện.
 * **Hộp pin 2 x 18650 tích hợp công tắc nguồn:** Thiết kế gọn gàng, thuận tiện bố trí nguồn cho robot, điện áp tối đa 8.4VDC
 * **Bánh xe 65mm:** Độ bám đường tốt, phù hợp cho robot di động.
-* **Tương thích nhiều nền tảng:** Arduino/Vietduino, Micro:bit, ESP32-S3 Dev Kit và nhiều bo mạch điều khiển khác.
+* **Tương thích nhiều nền tảng:** Arduino / Vietduino, Micro:bit, ESP32-S3 Dev Kit và nhiều bo mạch điều khiển khác.
 * **Hỗ trợ nhiều cảm biến:** Có thể kết hợp cảm biến siêu âm, cảm biến dò line và các module cảm biến phổ biến.
 * **Phù hợp giáo dục STEM:** Dễ sử dụng cho các bài học lập trình, điều khiển động cơ và Robotics.
 
 ## Bộ sản phẩm bao gồm
 
-* Khung xe Robot 4WD MKE-R01.
-* 4 × Động cơ TT Motor giảm tốc.
-* 4 × Bánh xe robot.
-* Hộp pin 18650.
-* Các phụ kiện cơ khí và vít lắp ráp cần thiết.
+* 1 x Tấm nền chữ U Acrylic dày 2mm, KT: 190 x 125 x 30mm (L x W x H)
+* 1 x Tấm đế gắn hộp pin Acrylic dày 2mm, KT: 123 x 77mm
+* 1 x Gá bắt cảm biến siêu âm MKE-S01
+* 1 x Động cơ RC Servo SG90 0-180°
+* 4 × Bộ động cơ DC giảm tốc TT Motor kèm bánh xe nhựa 65mm
+* 1 x Hộp pin 2 x 18650 nối tiếp có công tắc kèm giắc DC 5.5 x 2.1mm
+* 10 x Trụ nhựa lục giác M3 F-F 10mm
+* 4 x Trụ nhựa lục giác M3 F-F 40mm
+* 30 x Ốc M3 5mm
+* 4 x Cặp ốc tán M3 30mm bắt TT Motor
+* 1 x cặp ốc tán M2 10mm bắt RC Servo 9G
 
 ## Thông số kỹ thuật
 
