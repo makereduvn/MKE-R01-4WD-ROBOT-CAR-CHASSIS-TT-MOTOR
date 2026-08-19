@@ -31,8 +31,9 @@
 * 10 x Trụ nhựa lục giác M3 F-F 10mm
 * 6  x Trụ nhựa lục giác M3 F-F 40mm
 * 35 x Ốc M3 5mm
-* 4  x Cặp ốc tán M3 30mm bắt TT Motor
-* 1  x cặp ốc tán M2 10mm bắt RC Servo 9G
+* 8  x Ốc, tán M3 30mm bắt TT Motor
+* 2  x Ốc, tán M2 10mm bắt RC Servo 9G
+* 5  x Ốc, tán M3 10mm bắt TT Motor
 
 ## Thông số kỹ thuật
 
