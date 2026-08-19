@@ -22,17 +22,17 @@
 
 ## Bộ sản phẩm bao gồm
 
-* 1 x Tấm nền chữ U Acrylic dày 2mm, KT: 190 x 125 x 30mm (L x W x H)
-* 1 x Tấm đế gắn hộp pin Acrylic dày 2mm, KT: 123 x 77mm
-* 1 x Gá bắt cảm biến siêu âm MKE-S01
-* 1 x Động cơ RC Servo SG90 0-180°
-* 4 × Bộ động cơ DC giảm tốc TT Motor kèm bánh xe nhựa 65mm
-* 1 x Hộp pin 2 x 18650 nối tiếp có công tắc kèm giắc DC 5.5 x 2.1mm
+* 1  x Tấm nền chữ U Acrylic dày 2mm, KT: 190 x 125 x 30mm (L x W x H)
+* 1  x Tấm đế gắn hộp pin Acrylic dày 2mm, KT: 123 x 77mm
+* 1  x Gá bắt cảm biến siêu âm MKE-S01
+* 1  x Động cơ RC Servo SG90 0-180°
+* 4  × Bộ động cơ DC giảm tốc TT Motor kèm bánh xe nhựa 65mm
+* 1  x Hộp pin 2 x 18650 nối tiếp có công tắc kèm giắc DC 5.5 x 2.1mm
 * 10 x Trụ nhựa lục giác M3 F-F 10mm
-* 4 x Trụ nhựa lục giác M3 F-F 40mm
-* 30 x Ốc M3 5mm
-* 4 x Cặp ốc tán M3 30mm bắt TT Motor
-* 1 x cặp ốc tán M2 10mm bắt RC Servo 9G
+* 6  x Trụ nhựa lục giác M3 F-F 40mm
+* 35 x Ốc M3 5mm
+* 4  x Cặp ốc tán M3 30mm bắt TT Motor
+* 1  x cặp ốc tán M2 10mm bắt RC Servo 9G
 
 ## Thông số kỹ thuật
 
