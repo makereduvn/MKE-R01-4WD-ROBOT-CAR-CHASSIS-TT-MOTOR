@@ -8,6 +8,8 @@
 
 **Khung xe MKE-R01 4WD Robot Car Chassis TT Motor** có **hộp pin 2 x 18650 tích hợp công tắc nguồn**, cung cấp điện áp tối đa Max 8.4VDC, giúp bố trí nguồn điện gọn gàng và thuận tiện. Nền tảng có thể kết hợp với nhiều bo mạch điều khiển phổ biến như **Arduino / Vietduino, Micro:bit và ESP32-S3**, đồng thời tương thích với nhiều module và cảm biến thông dụng trên thị trường.
 
+![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01.png)
+
 ## Ưu điểm nổi bật
 
 * **4WD:** 4 bánh cùng truyền động, tăng độ bám và khả năng di chuyển ổn định.
@@ -22,6 +24,7 @@
 
 ## Bộ sản phẩm bao gồm
 
+![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_0.png)
 | STT | Tên sản phẩm / linh kiện                                               | Số lượng | Chức năng                                                          |
 | --: | ---------------------------------------------------------------------- | -------: | ------------------------------------------------------------------ |
 |   1 | Tấm nền chữ U Acrylic dày 2mm, kích thước 190 × 125 × 30mm (L × W × H) |        1 | Phần khung sườn chính của xe                                       |
@@ -44,27 +47,42 @@
 * **Tên sản phẩm:** TT Motor Car Chassis
 * **Loại:** Khung xe Robot 4WD
 * **Hệ dẫn động:** 4WD – 4 bánh chủ động
-* **Động cơ:** TT Motor DC Geared Motor (3-9VDC)
+* **Động cơ:** TT Motor DC Geared Motor, tỉ số truyền 1:48, 3~9VDC, 200RPM
 * **Số lượng động cơ:** 4
 * **Số lượng bánh xe:** 4
 * **Vật liệu khung:** Acrylic
-* **Kích thước:** 200 × 140 × 100mm
-* **Khối lượng:** Khoảng 600g
+* **Kích thước:** 190 x 170 x 120mm (L x W x H, kích thước kèm bánh xe)
+* **Khối lượng:** Khoảng 500g
 * **Hộp pin:** Tích hợp công tắc nguồn, hỗ trợ 2 x pin 18650 (Max 8.4VDC)
 * **Bánh xe:** đường kính 65mm, độ bám đường tốt
 * **Tương thích:** Arduino / Vietduino, Micro:bit, ESP32-S3 Dev Kit và các nền tảng tương đương
 
 ## Khả năng tương thích
 
-Khung xe MKE-R01 được thiết kế theo hướng **mở và dễ tùy biến**, cho phép người dùng kết hợp nhiều loại bo mạch và module để xây dựng các robot với chức năng khác nhau:
+### Các bo mạch, module, cảm biến tương thích:
+* Arduino / [Vietduino](https://github.com/makereduvn/VIETDUINO) + [MKE-B03 Vietduino IO Shield](https://github.com/makereduvn/MKE-B03-VIETDUINO-IO-SHIELD)
+* Micro:bit + [MKE-B02 IO Shield For Microbit](https://github.com/makereduvn/MKE-B02-IO-SHIELD-FOR-MICROBIT)
+* [ESP32-S3 Dev Kit](https://github.com/makereduvn/MKE-K01-ESP32-S3-DEV-KIT) + [MKE-B01 ESP32-S3 DK IO Shield](https://github.com/makereduvn/MKE-B01-ESP32-S3-DK-IO-SHIELD)
+* Cảm biến siêu âm: [MKE-S01 Ultrasonic Distance Sensor](https://github.com/makereduvn/MKE-S01-ULTRASONIC-DISTANCE-SENSOR) hoặc SRF05
+* Cảm biến dò line: [MKE-S16 I2C 5C LINE TRACKING SENSOR](https://github.com/makereduvn/MKE-S16-I2C-5C-LINE-TRACKING-SENSOR) hoặc các loại cảm biến dò line đơn.
+* Bluetooth: [MKE-M15 Bluetooth UART Module](https://github.com/makereduvn/MKE-M15-BLUETOOTH-UART-MODULE) hoặc HC-05
+* Driver: [MKE-M17 L9110 I2C Motor Driver Module](https://github.com/makereduvn/MKE-M17-L9110-I2C-MOTOR-DRIVER-MODULE) hoặc L298
+* Trang trí: [MKE-M22 WS2812B RGB LED Module](https://github.com/makereduvn/MKE-M22-WS2812B-RGB-LED-MODULE)
+* Và các bo mạch, module, cảm biến khác bằng các khoan thêm lỗ bắt rất dễ dàng trên Acrylic.
 
-* Arduino / Vietduino + L298 → Điều khiển 4 động cơ TT.
-* Micro:bit + IO Shield → Xây dựng robot giáo dục và robot điều khiển không dây.
-* ESP32-S3 + IO Shield → Phát triển robot IoT, Wi-Fi/Bluetooth và các ứng dụng AIoT.
-* Cảm biến siêu âm → Robot tránh vật cản.
-* Cảm biến dò line 5C MakerEDU → Robot dò line.
-* Bluetooth UART HC-05 → Điều khiển robot từ điện thoại hoặc thiết bị Bluetooth.
-* I2C Motor Driver MakerEDU → Điều khiển động cơ thông qua giao tiếp I2C.
+### Minh hoạ cách lắp đặt:
+
+#### Arduino / [Vietduino](https://github.com/makereduvn/VIETDUINO)
+![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_1.png)
+![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_11.png)
+
+#### Micro:bit + [MKE-B02 IO Shield For Microbit](https://github.com/makereduvn/MKE-B02-IO-SHIELD-FOR-MICROBIT)
+![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_2.png)
+![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_21.png)
+
+#### [ESP32-S3 Dev Kit](https://github.com/makereduvn/MKE-K01-ESP32-S3-DEV-KIT) + [MKE-B01 ESP32-S3 DK IO Shield](https://github.com/makereduvn/MKE-B01-ESP32-S3-DK-IO-SHIELD)
+![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_3.png)
+![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_31.png)
 
 ## Ứng dụng
 
