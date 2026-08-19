@@ -30,10 +30,10 @@
 * 1  x Hộp pin 2 x 18650 nối tiếp có công tắc kèm giắc DC 5.5 x 2.1mm
 * 10 x Trụ nhựa lục giác M3 F-F 10mm
 * 6  x Trụ nhựa lục giác M3 F-F 40mm
-* 35 x Ốc M3 5mm
+* 35 x Ốc M3 6mm
 * 8  x Ốc, tán M3 30mm bắt TT Motor
 * 2  x Ốc, tán M2 10mm bắt RC Servo 9G
-* 5  x Ốc, tán M3 10mm bắt TT Motor
+* 5  x Ốc, tán M3 10mm bắt cảm biến siêu âm và hộp pin
 
 ## Thông số kỹ thuật
 
