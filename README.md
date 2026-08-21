@@ -26,7 +26,7 @@
 
 ![MKE-R01 4WD Robot Car Chassis TT Motor](/extras/MKE-R01_0.png)
 | STT | Tên sản phẩm / linh kiện                                               | Số lượng | Chức năng                                                          |
-| --: | ---------------------------------------------------------------------- | -------: | ------------------------------------------------------------------ |
+| :--: | :---------------------------------------------------------------------- | :-------: | :------------------------------------------------------------------ |
 |   1 | Tấm nền chữ U Acrylic dày 2mm, kích thước 190 × 125 × 30mm (L × W × H) |   x 1 | Phần khung sườn chính của xe                                       |
 |   2 | Tấm đế gắn hộp pin Acrylic dày 2mm, kích thước 123 × 77mm              |   x 1 | Dùng để gắn hộp pin hoặc mạch điều khiển động cơ                   |
 |   3 | Gá bắt Acrylic dày 2mm cho cảm biến siêu âm MKE-S01                    |   x 1 | Dùng để gắn cảm biến siêu âm MKE-S01 hoặc SRF-05                   |
