@@ -36,7 +36,7 @@
 |   7 | Trụ nhựa lục giác M3 F-F 10mm, màu trắng hoặc đen tùy từng đợt hàng    |   x 10 | Làm chân đế để gắn các bo mạch vào khung xe                        |
 |   8 | Trụ nhựa lục giác M3 M-F 20mm, màu trắng hoặc đen tùy từng đợt hàng    |   x 6 | Dùng để nâng tầng cho tấm đế gắn hộp pin hoặc gắn cảm biến dò line |
 |   9 | Trụ nhựa lục giác M3 F-F 20mm, màu trắng hoặc đen tùy từng đợt hàng    |   x 6 | Dùng để nâng tầng cho tấm đế gắn hộp pin hoặc gắn cảm biến dò line |
-|  10 | Ốc M3 × 6mm                                                            |   x 35 | Dùng để gắn các bo mạch vào khung xe                               |
+|  10 | Ốc M3 × 6mm                                                            |   x 30 | Dùng để gắn các bo mạch vào khung xe                               |
 |  11 | Ốc, tán M3 × 30mm                                                      |   x 8 | Dùng để bắt động cơ TT Motor vào khung xe                          |
 |  12 | Ốc, tán M2 × 10mm                                                      |   x 2 | Dùng để bắt RC Servo 9G vào khung xe                               |
 |  13 | Ốc, tán M3 × 10mm                                                      |   x 5 | Dùng để bắt cảm biến siêu âm và hộp pin                            |
